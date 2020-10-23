@@ -10343,7 +10343,7 @@ If it is a system profile it will be recreated next time.</source>
     <message>
         <location line="-2149"/>
         <source>Advanced Rate Control</source>
-        <translation>Додатковий контроль швидкості</translation>
+        <translation>Додатковий контроль якості</translation>
     </message>
     <message>
         <location line="+3012"/>
@@ -10524,7 +10524,7 @@ If it is a system profile it will be recreated next time.</source>
     <message>
         <location line="+347"/>
         <source>Maximum Constant Rate Factor</source>
-        <translation>Максимально-постійний коефіцієнт швидкості</translation>
+        <translation>Максимально-постійна оцінка значення кадрів (CFR)</translation>
     </message>
     <message>
         <location line="+2576"/>
@@ -10550,7 +10550,7 @@ If it is a system profile it will be recreated next time.</source>
     <message>
         <location line="-331"/>
         <source>Advanced RC</source>
-        <translation type="unfinished">Додаткове</translation>
+        <translation>Додаткове</translation>
     </message>
     <message>
         <location line="-342"/>
@@ -11044,7 +11044,7 @@ If it is a system profile it will be recreated next time.</source>
     <message>
         <location line="-3055"/>
         <source>Macroblock-tree Rate Control</source>
-        <translation>Контроль частоти дерева макроблоків</translation>
+        <translation>Управління значенням дерева макроблоків</translation>
     </message>
     <message>
         <location line="+458"/>
@@ -11406,19 +11406,19 @@ If it is a system profile it will be recreated next time.</source>
 <context>
     <name>x265</name>
     <message>
-        <location filename="../../../avidemux_plugins/ADM_videoEncoder/x265/qt4/Q_x265.cpp" line="+628"/>
+        <location filename="../../../avidemux_plugins/ADM_videoEncoder/x265/qt4/Q_x265.cpp" line="+716"/>
         <source>MB</source>
         <translation>Мб</translation>
     </message>
     <message>
-        <location line="-412"/>
+        <location line="-506"/>
         <source>none</source>
         <translation>нічого</translation>
     </message>
     <message>
-        <location line="+597"/>
-        <location line="+67"/>
-        <location line="+17"/>
+        <location line="+691"/>
+        <location line="+70"/>
+        <location line="+14"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
@@ -11457,17 +11457,17 @@ Do you wish to continue?</source>
         <translation>Видалити</translation>
     </message>
     <message>
-        <location line="-618"/>
+        <location line="-714"/>
         <source>Custom</source>
         <translation>Вручну</translation>
     </message>
     <message>
-        <location line="+595"/>
+        <location line="+694"/>
         <source>Cannot save preset</source>
         <translation>Неможливо зберегти передустановку</translation>
     </message>
     <message>
-        <location line="-262"/>
+        <location line="-265"/>
         <source>Quantiser:</source>
         <translation>Квантизатор:</translation>
     </message>
@@ -11483,12 +11483,12 @@ Do you wish to continue?</source>
         <translation>Кбіт/с</translation>
     </message>
     <message>
-        <location line="+242"/>
+        <location line="+241"/>
         <source>Replace the following preset ?:</source>
         <translation>Замінити наступну передустановку?:</translation>
     </message>
     <message>
-        <location line="-263"/>
+        <location line="-262"/>
         <source>Target Bitrate:</source>
         <translation>Цільовий бітрейт:</translation>
     </message>
@@ -11515,22 +11515,17 @@ Do you wish to continue?</source>
         <translation>Неможливо видалити власний профіль</translation>
     </message>
     <message>
-        <location line="-22"/>
+        <location line="-23"/>
         <source>Overwrite</source>
         <translation>Замінити</translation>
     </message>
     <message>
-        <location line="-660"/>
+        <location line="-795"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
     <message>
-        <location line="+2"/>
-        <source>Default</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+543"/>
+        <location line="+681"/>
         <source>Macroblock-Tree optimisation requires Variance Adaptive Quantisation to be enabled.  Variance Adaptive Quantisation will automatically be enabled.
 
 Do you wish to continue?</source>
@@ -11671,7 +11666,7 @@ If it is a system profile it will be recreated next time.</source>
     <message>
         <location line="+237"/>
         <source>Rate Distortion Optimisation:</source>
-        <translation>Оптимізація швидкості спотворення (до якості):</translation>
+        <translation>Оптимізація значення спотворення (до якості):</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -11867,7 +11862,7 @@ If it is a system profile it will be recreated next time.</source>
     <message>
         <location line="-1879"/>
         <source>Coding Unit-tree Rate Control</source>
-        <translation>Управління швидкістю кодування дерева одиниць</translation>
+        <translation>Управління значенням кодування дерева одиниць</translation>
     </message>
     <message>
         <location line="+460"/>
@@ -11909,7 +11904,7 @@ If it is a system profile it will be recreated next time.</source>
     <message>
         <location line="-1763"/>
         <source>Advanced Rate Control</source>
-        <translation>Додатковий контроль швидкості</translation>
+        <translation>Додатковий контроль якості</translation>
     </message>
     <message>
         <location line="+2607"/>
@@ -12053,7 +12048,7 @@ If it is a system profile it will be recreated next time.</source>
     <message>
         <location line="-1107"/>
         <source>Maximum Constant Rate Factor</source>
-        <translation>Максимально-постійний коефіцієнт швидкості</translation>
+        <translation>Максимально-постійна оцінка значення кадрів(CFR)</translation>
     </message>
     <message>
         <location line="+2185"/>
